@@ -18,16 +18,11 @@ All files are **safe `.reg.txt` examples** to demonstrate how registry entries c
 windows-registry-learning/
 ├─ README.md
 ├─ DISCLAIMER.md
-├─ LICENSE
-├─ docs/
-│ └─ registry-defender-demo.md
-└─ examples/
 ├─ example-defender-enable.reg.txt
 └─ example-defender-disable.reg.txt
 
-
-- `docs/` → explanations of registry keys  
-- `examples/` → sample `.reg.txt` files (safe, not executable)  
+- `example-defender-enable.reg.txt` → example to enable Windows Defender (for learning purposes)  
+- `example-defender-disable.reg.txt` → example to disable Windows Defender (for learning purposes)  
 
 ---
 
